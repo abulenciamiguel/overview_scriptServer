@@ -1,0 +1,5 @@
+ont_barcode,local_id,type,central_id,repeat,primer_version,endorsing_agency,selection_criteria
+5,COV24-619938GC,positive,4731,no,5.3.2,EB,n/a
+3,COV24-619939GC,positive,4732,no,5.3.2,EB,n/a
+2,NEC 1_B97,negative,4733,no,5.3.2,n/a,n/a
+1,NTC_B97,negative,4734,no,5.3.2,n/a,n/a
